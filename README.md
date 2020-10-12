@@ -13,6 +13,9 @@ Ich möchte, dass du dich selbstständig mit der Dokumentation von Laravel Zero 
 Laravel Zero unterscheidet sich nicht wirklich vom Konsolenaufbau von Laravel. 
 Um die Aufgabe umzusetzen musst du einen Befehl erstellen und möglichst einen Trait, der die Kommunikation mit der externen API handhabt. 
 
+Noch zwei kleine Tipps: 
+Ich empfehle dir den [HTTP Client von Laravel Zero](https://laravel-zero.com/docs/http-client/) sowie das [Dotenv Addon](https://laravel-zero.com/docs/environment-variables/). Der HTTP Client ist übrigens identisch zum Laravel HTTP Client. Dotenv ist ebenfalls zu Laravels Dotenv identisch. 
+
 ---
 
 Diese Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Ich habe Laravel Zero schon installiert. Tobe dich aus und setzte deiner Kreativität keine Grenzen.  
