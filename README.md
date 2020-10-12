@@ -1,37 +1,22 @@
+<p align="center"><a href="https://www.webmasters-fernakademie.de"><img src="https://www.webmasters-fernakademie.de/images/wfa_img/logo-wfa.png?1571290125" width="400"></a></p>
 <p align="center">
-    <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
+Template für die Einsendeaufgabe der Class "Laravel fuer Fortgeschrittene"
 </p>
 
-<p align="center">
-  <a href="https://github.com/laravel-zero/framework/actions"><img src="https://img.shields.io/github/workflow/status/laravel-zero/framework/Tests.svg" alt="Build Status"></img></a>
-  <a href="https://scrutinizer-ci.com/g/laravel-zero/framework"><img src="https://img.shields.io/scrutinizer/g/laravel-zero/framework.svg" alt="Quality Score"></img></a>
-  <a href="https://packagist.org/packages/laravel-zero/framework"><img src="https://img.shields.io/packagist/dt/laravel-zero/framework.svg" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/laravel-zero/framework"><img src="https://img.shields.io/packagist/v/laravel-zero/framework.svg?label=stable" alt="Latest Stable Version"></a>
-  <a href="https://packagist.org/packages/laravel-zero/framework"><img src="https://img.shields.io/packagist/l/laravel-zero/framework.svg" alt="License"></a>
-</p>
+## About Stock Tracker CLI 
+*stock-tracker-cli* ist eine kleine Kommandozeilen Applikation, mit der du den derzeitigen Kurs einer Aktie überprüfen können sollst. Dazu soll das Framework Laravel Zero verwendet werden. Die Dokumentation ist unten verlinkt. Um den derzeitigen Aktienkurs zu erhalten, muss die Applikation mit einer externen API kommunizieren.  Ich habe für die Musterlösung die API von [IEX Cloud](https://iexcloud.io/) verwendet. Dort kannst du einen kostenlosen Account erstellen, um deine API Zugangsdaten zu erhalten. Du kannst aber auch jede andere kostenfreie API verwenden. Solltest du Probleme mit den API Zugangsdaten haben, kannst du mich jederzeit anschreiben und ich sende dir Zugangsdaten zu. 
 
-<h4> <center>This is a <bold>community project</bold> and not an official Laravel one </center></h4>
+**Es ist ausdrücklich Laravel Zero und nicht Laravel zu verwenden.**
 
-Laravel Zero was created by, and is maintained by [Nuno Maduro](https://github.com/nunomaduro), and is a micro-framework that provides an elegant starting point for your console application. It is an **unofficial** and customized version of Laravel optimized for building command-line applications.
+Warum sollst du das mit Laravel Zero und einer externen API machen? 
+Ich möchte, dass du dich selbstständig mit der Dokumentation von Laravel Zero und einer externen API beschäftigst. Es ist eine wichtige Fähigkeit, sich gut in andere Tools einzufinden. 
+Laravel Zero unterscheidet sich nicht wirklich vom Konsolenaufbau von Laravel. 
+Um die Aufgabe umzusetzen musst du einen Befehl erstellen und möglichst einen Trait, der die Kommunikation mit der externen API handhabt. 
 
-- Built on top of the [Laravel](https://laravel.com) components.
-- Optional installation of Laravel [Eloquent](https://laravel-zero.com/docs/database/), Laravel [Logging](https://laravel-zero.com/docs/logging/) and many others.
-- Supports interactive [menus](https://laravel-zero.com/docs/build-interactive-menus/) and [desktop notifications](https://laravel-zero.com/docs/send-desktop-notifications/) on Linux, Windows & MacOS.
-- Ships with a [Scheduler](https://laravel-zero.com/docs/task-scheduling/) and  a [Standalone Compiler](https://laravel-zero.com/docs/build-a-standalone-application/).
-- Integration with [Collision](https://github.com/nunomaduro/collision) - Beautiful error reporting
+---
 
-------
+Diese Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Ich habe Laravel Zero schon installiert. Tobe dich aus und setzte deiner Kreativität keine Grenzen.  
 
-## Documentation
 
-For full documentation, visit [laravel-zero.com](https://laravel-zero.com/).
-
-## Support the development
-**Do you like this project? Support it by donating**
-
-- PayPal: [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=66BYDWAT92N6L)
-- Patreon: [Donate](https://www.patreon.com/nunomaduro)
-
-## License
-
-Laravel Zero is an open-source software licensed under the [MIT license](https://github.com/laravel-zero/laravel-zero/blob/stable/LICENSE.md).
+## Credits
+[Laravel Zero Dokumentation](https://laravel-zero.com/docs/introduction/)
