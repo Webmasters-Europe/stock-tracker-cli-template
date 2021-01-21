@@ -632,7 +632,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v8.20.1",
+            "version": "v8.23.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
@@ -679,7 +679,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v8.20.1",
+            "version": "v8.23.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -6766,6 +6766,7 @@
                 }
             ],
             "description": "A security checker for your composer.lock",
+            "abandoned": "https://github.com/fabpot/local-php-security-checker",
             "time": "2019-11-01T13:20:14+00:00"
         },
         {
