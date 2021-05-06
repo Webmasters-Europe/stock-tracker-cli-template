@@ -7103,16 +7103,16 @@
         },
         {
             "name": "symfony/filesystem",
-            "version": "v5.2.1",
+            "version": "v5.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "fa8f8cab6b65e2d99a118e082935344c5ba8c60d"
+                "reference": "056e92acc21d977c37e6ea8e97374b2a6c8551b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/fa8f8cab6b65e2d99a118e082935344c5ba8c60d",
-                "reference": "fa8f8cab6b65e2d99a118e082935344c5ba8c60d",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/056e92acc21d977c37e6ea8e97374b2a6c8551b0",
+                "reference": "056e92acc21d977c37e6ea8e97374b2a6c8551b0",
                 "shasum": ""
             },
             "require": {
@@ -7142,7 +7142,7 @@
                     "homepage": "https://symfony.com/contributors"
                 }
             ],
-            "description": "Symfony Filesystem Component",
+            "description": "Provides basic utilities for the filesystem",
             "homepage": "https://symfony.com",
             "funding": [
                 {
@@ -7158,7 +7158,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-11-30T17:05:38+00:00"
+            "time": "2021-04-01T10:42:13+00:00"
         },
         {
             "name": "symfony/http-client",
